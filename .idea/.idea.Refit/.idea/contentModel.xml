@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tobiasz.waclawiak\.nuget\packages\xunit.runner.visualstudio\2.3.0-beta4-build3742\build\_common\xunit.abstractions.dll" t="Include" />
+    <e p="C:\Users\tobiasz.waclawiak\.nuget\packages\xunit.runner.visualstudio\2.3.0-beta4-build3742\build\_common\xunit.runner.reporters.net452.dll" t="Include" />
+    <e p="C:\Users\tobiasz.waclawiak\.nuget\packages\xunit.runner.visualstudio\2.3.0-beta4-build3742\build\_common\xunit.runner.utility.net452.dll" t="Include" />
+    <e p="C:\Users\tobiasz.waclawiak\.nuget\packages\xunit.runner.visualstudio\2.3.0-beta4-build3742\build\_common\xunit.runner.visualstudio.testadapter.dll" t="Include" />
+    <e p="C:\Users\tobiasz.waclawiak\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Refit.-655570007.00" t="ExcludeRecursive" />
+    <e p="D:\refit_git\refit" t="IncludeFlat">
+      <e p=".editorconfig" t="Include" />
+      <e p="appveyor.yml" t="Include" />
+      <e p="Directory.build.props" t="Include" />
+      <e p="InterfaceStubGenerator.App" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GitHubApi.cs" t="Include" />
+        <e p="InterfaceStubGenerator.App.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net46" t="Include">
+              <e p="InterfaceStubGenerator.App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="InterfaceStubGenerator.BuildTasks" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug\net46\publish\GeneratedInterfaceStubTemplate.mustache" t="Include" />
+          <e p="Debug\net46\publish\InterfaceStubGenerator.BuildTasks.dll" t="Include" />
+          <e p="Debug\net46\publish\InterfaceStubGenerator.BuildTasks.pdb" t="Include" />
+          <e p="Debug\net46\publish\InterfaceStubGenerator.Core.dll" t="Include" />
+          <e p="Debug\net46\publish\InterfaceStubGenerator.Core.pdb" t="Include" />
+          <e p="Debug\net46\publish\Microsoft.Build.Framework.dll" t="Include" />
+          <e p="Debug\net46\publish\Microsoft.Build.Tasks.Core.dll" t="Include" />
+          <e p="Debug\net46\publish\Microsoft.Build.Utilities.Core.dll" t="Include" />
+          <e p="Debug\net46\publish\Microsoft.CodeAnalysis.CSharp.dll" t="Include" />
+          <e p="Debug\net46\publish\Microsoft.CodeAnalysis.dll" t="Include" />
+          <e p="Debug\net46\publish\Nustache.Core.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\unix\lib\netstandard1.3\System.Diagnostics.FileVersionInfo.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\unix\lib\netstandard1.3\System.IO.Compression.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\win\lib\net46\System.Diagnostics.FileVersionInfo.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\win\lib\net46\System.IO.Compression.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\win\lib\net46\System.Security.Cryptography.Algorithms.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\win\lib\net46\System.Security.Cryptography.Encoding.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\win\lib\net46\System.Security.Cryptography.X509Certificates.dll" t="Include" />
+          <e p="Debug\net46\publish\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" t="Include" />
+          <e p="Debug\net46\publish\System.AppContext.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Collections.Immutable.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Console.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Diagnostics.FileVersionInfo.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Diagnostics.StackTrace.dll" t="Include" />
+          <e p="Debug\net46\publish\System.IO.Compression.dll" t="Include" />
+          <e p="Debug\net46\publish\System.IO.FileSystem.dll" t="Include" />
+          <e p="Debug\net46\publish\System.IO.FileSystem.Primitives.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Reflection.Metadata.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Security.Cryptography.Algorithms.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Security.Cryptography.Encoding.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Security.Cryptography.Primitives.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Security.Cryptography.X509Certificates.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Text.Encoding.CodePages.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Threading.Thread.dll" t="Include" />
+          <e p="Debug\net46\publish\System.ValueTuple.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Xml.ReaderWriter.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Xml.XmlDocument.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Xml.XPath.dll" t="Include" />
+          <e p="Debug\net46\publish\System.Xml.XPath.XDocument.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\GeneratedInterfaceStubTemplate.mustache" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\InterfaceStubGenerator.BuildTasks.deps.json" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\InterfaceStubGenerator.BuildTasks.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\InterfaceStubGenerator.BuildTasks.pdb" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\InterfaceStubGenerator.Core.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\InterfaceStubGenerator.Core.pdb" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\Microsoft.CodeAnalysis.CSharp.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\Microsoft.CodeAnalysis.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\Nustache.Core.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" t="Include" />
+          <e p="Debug\netcoreapp2.0\publish\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" t="Include" />
+        </e>
+        <e p="ContextAwareTask.cs" t="Include" />
+        <e p="GenerateStubsTask.cs" t="Include" />
+        <e p="InterfaceStubGenerator.BuildTasks.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net46" t="Include">
+              <e p="InterfaceStubGenerator.BuildTasks.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="InterfaceStubGenerator.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Diagnostics.cs" t="Include" />
+        <e p="GeneratedInterfaceStubTemplate.mustache" t="Include" />
+        <e p="InterfaceStubGenerator.Core.csproj" t="IncludeRecursive" />
+        <e p="InterfaceStubGenerator.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net46" t="Include">
+              <e p="InterfaceStubGenerator.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="refit" t="IncludeRecursive">
+        <e p="AnonymousDisposable.cs" t="Include" />
+        <e p="ApiException.cs" t="Include" />
+        <e p="Attributes.cs" t="Include" />
+        <e p="AuthenticatedHttpClientHandler.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="build" t="Include">
+          <e p="MSBuildCore20" t="Include">
+            <e p="runtimes" t="Include">
+              <e p="unix" t="Include">
+                <e p="lib" t="Include">
+                  <e p="netstandard1.3" t="Include" />
+                </e>
+              </e>
+              <e p="win" t="Include">
+                <e p="lib" t="Include">
+                  <e p="netstandard1.3" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="MSBuildFull46" t="Include">
+            <e p="runtimes" t="Include">
+              <e p="unix" t="Include">
+                <e p="lib" t="Include">
+                  <e p="netstandard1.3" t="Include" />
+                </e>
+              </e>
+              <e p="win" t="Include">
+                <e p="lib" t="Include">
+                  <e p="net46" t="Include" />
+                  <e p="netstandard1.3" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="FormValueDictionary.cs" t="Include" />
+        <e p="Helpers.cs" t="Include" />
+        <e p="HttpUtility.cs" t="Include" />
+        <e p="MultipartItem.cs" t="Include" />
+        <e p="NameValueCollection.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net45" t="Include">
+              <e p="Refit.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="PushStreamContent.cs" t="Include" />
+        <e p="Refit.csproj" t="IncludeRecursive" />
+        <e p="RefitSettings.cs" t="Include" />
+        <e p="RequestBuilder.cs" t="Include" />
+        <e p="RequestBuilderFactory.cs" t="Include" />
+        <e p="RequestBuilderImplementation.cs" t="Include" />
+        <e p="RequestBuilderImplementation.TaskToObservable.cs" t="Include" />
+        <e p="RestMethodInfo.cs" t="Include" />
+        <e p="RestService.cs" t="Include" />
+        <e p="targets" t="Include">
+          <e p="refit.targets" t="Include" />
+        </e>
+        <e p="Utility.cs" t="Include" />
+      </e>
+      <e p="Refit.ruleset" t="Include" />
+      <e p="Refit.sln" t="IncludeFlat" />
+      <e p="Refit.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DeliminatorSeparatedPropertyNamesContractResolver.cs" t="Include" />
+        <e p="FormValueDictionaryTests.cs" t="Include" />
+        <e p="GitHubApi.cs" t="Include" />
+        <e p="IntegrationTestHelper.cs" t="Include" />
+        <e p="InterfaceStubGenerator.cs" t="Include" />
+        <e p="MethodOverloads.cs" t="Include" />
+        <e p="MultipartTests.cs" t="Include" />
+        <e p="MyQueryParams.cs" t="Include" />
+        <e p="NamespaceCollisionApi.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net46" t="Include">
+              <e p="Refit.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+        <e p="Refit.Tests.csproj" t="IncludeRecursive" />
+        <e p="RefitStubs.Net46.cs" t="Include" />
+        <e p="RefitStubs.NetCore2.cs" t="Include" />
+        <e p="RequestBuilder.cs" t="Include" />
+        <e p="RestService.cs" t="Include" />
+        <e p="Test Files" t="Include">
+          <e p="Test.pdf" t="Include" />
+        </e>
+      </e>
+      <e p="Solution Items" t="Include" />
+      <e p="Tests" t="Include" />
+      <e p="version.json" t="Include" />
+    </e>
+  </component>
+</project>

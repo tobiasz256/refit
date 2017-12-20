@@ -35,7 +35,7 @@ using System.Reflection;
 namespace RefitInternalGenerated
 {
     [AttributeUsage (AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Enum | AttributeTargets.Constructor | AttributeTargets.Method | AttributeTargets.Property | AttributeTargets.Field | AttributeTargets.Event | AttributeTargets.Interface | AttributeTargets.Delegate)]
-    sealed class PreserveAttribute : Attribute
+    sealed class PreserveAttribute : AttributeTargets.Class.Attribute
     {
 
         //

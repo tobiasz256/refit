@@ -1,13 +1,20 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFrameworks>netcoreapp2.0;net46</TargetFrameworks>
+    <TargetFrameworks>net46</TargetFrameworks>
     <RootNamespace>Refit.Generator.App</RootNamespace>
   </PropertyGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\InterfaceStubGenerator.Core\InterfaceStubGenerator.Core.csproj" />
+    <ProjectReference Include="..\Refit\Refit.csproj">
+      <Project>{613670B3-BBC6-4479-A3D6-B6A6E80D94FD}</Project>
+      <Name>Refit</Name>
+    </ProjectReference>
   </ItemGroup>
-
+  <ItemGroup>
+    <Reference Include="RichardSzalay.MockHttp, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>C:\Users\tobiasz.waclawiak\.nuget\packages\richardszalay.mockhttp\1.5.0\lib\net45\RichardSzalay.MockHttp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
 </Project>
